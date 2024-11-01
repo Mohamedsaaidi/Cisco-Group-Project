@@ -33,4 +33,4 @@ Here’s a breakdown of the estimated costs for the network equipment and compon
 ## Total Estimated Cost
 The grand total for all components amounts to **€24,000**.
 
-This comprehensive cost estimation ensures that we al
+This comprehensive cost estimation ensures that we allocate the necessary budget for the successful implementation of our network infrastructure.
